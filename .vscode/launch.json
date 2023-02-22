@@ -9,7 +9,7 @@
             "name": "Launch Driver",
             "request": "launch",
             "mainClass": "foxes_rabbits_v2.Driver",
-            "projectName": "FoxesAndRabbits_778e50f8"
+            "projectName": ""
         }
     ]
 }
